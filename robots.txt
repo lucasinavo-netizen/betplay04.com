@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow:
-
 Sitemap: https://betplay04.com/sitemap.xml
