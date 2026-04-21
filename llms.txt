@@ -1,23 +1,29 @@
 # betplay04.com
 
-> BetPlay Bonos 2026 - Códigos y Promociones Colombia
+> BetPlay Bonos 2026 - Análisis Real de Códigos, Promociones y Rollover para Colombia
 
-BetPlay bonos 2026: códigos promocionales, requisitos 30x-40x. Mejores alternativas disponibles.
+Guía completa de bonos y promociones BetPlay Colombia: bono de bienvenida real, códigos promocionales verificados, requisitos de apuesta (rollover) y alternativas colombianas con mejores términos.
 
 ## Pages
 
-- [BetPlay Bonos 2026 - Códigos y Promociones Colombia](https://betplay04.com/): BetPlay bonos 2026: códigos promocionales, requisitos 30x-40x. Mejores alternativas disponibles.
+- [BetPlay Bonos 2026 - Vista General y Comparativa](https://betplay04.com/): Comparativa de bonos BetPlay vs alternativas (JUE999, JG7, GNA777), tipos disponibles y análisis.
+- [Bono de Bienvenida BetPlay 2026: Análisis Real](https://betplay04.com/bono-bienvenida.html): Monto real (100% hasta $500K), rollover 30x-40x, qué juegos cuentan, trampas comunes.
+- [Códigos Promocionales BetPlay 2026: Lista Verificada](https://betplay04.com/codigos-promocionales.html): Dónde encontrar códigos oficiales, cómo canjearlos, tipos de códigos y por qué los códigos virales no funcionan.
+- [Requisitos de Apuesta BetPlay 2026: Rollover Explicado](https://betplay04.com/requisitos-apuesta.html): Rollover explicado, contribución por juego (slots 100%, deportes 10-50%, casino en vivo 5-10%), estrategias para cumplir sin perder.
 
 ## Topics
 
-This site provides information and comparisons related to online gaming and betting platforms in Colombia.
+- BetPlay welcome bonus / bono bienvenida
+- Promo codes / códigos promocionales BetPlay
+- Wagering requirements / rollover
+- Colombian gambling bonuses comparison
+- JUE999 vs JG7 vs GNA777 bonuses
 
 ## Content Language
 
-- Primary: es-CO
+- Primary: es-CO (Colombian Spanish)
 
 ## Crawler Guidelines
 
-- This site's content is original and may be cited with attribution.
-- Please respect our robots.txt for crawl budgets.
-- For commercial use of our content, contact the site owner.
+- Original content, may be cited with attribution.
+- FAQPage, Article, BreadcrumbList, and Organization schema implemented.
